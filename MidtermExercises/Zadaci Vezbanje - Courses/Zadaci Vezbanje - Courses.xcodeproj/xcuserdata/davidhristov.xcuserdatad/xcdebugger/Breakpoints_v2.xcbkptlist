@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "66E155F9-BB0B-4B04-BBC2-C13883C57386"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D02FD4D-87A2-4980-86DB-71C2F1F9008F"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "TretaZad"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zadaci Vezbanje - Courses/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3F18E50-9DD9-49CB-AE33-C1FF6DF4E86B"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "PettaZad"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zadaci Vezbanje - Courses/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DA9DE8B-0EA3-41A6-A850-E7411C81BB93"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "PrvaZad"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zadaci Vezbanje - Courses/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.DebuggerCommand">
+                  <ActionContent
+                     consoleCommand = "">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3421A712-F58C-44E2-B1FB-F013A655C717"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "TrinaesettaZad"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zadaci Vezbanje - Courses/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "204"
+            endingLineNumber = "204"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CAAA0B7B-A2A3-4A87-B680-6E61BAAFE833"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "OsumnaesettaZad"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zadaci Vezbanje - Courses/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "368"
+            endingLineNumber = "368"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B576F18-370F-4877-907F-B67A39A9D00C"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "DevettaZad"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zadaci Vezbanje - Courses/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "463"
+            endingLineNumber = "463"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2A6094E-E47F-497D-85BB-3FFC17CA6E5A"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "Prva-Dopolnitelni"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zadaci Vezbanje - Courses/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "637"
+            endingLineNumber = "637"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F58A3A47-CA4C-46CC-B1B2-059650500037"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "Dvanaessetta-Dopolnitelni"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zadaci Vezbanje - Courses/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "692"
+            endingLineNumber = "692"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0EB53859-9F5C-4B5D-A98A-AC26A7AA0FC7"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "DevetnaesettaZad"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zadaci Vezbanje - Courses/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "566"
+            endingLineNumber = "566"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54A55D75-BA8E-49C1-86CE-2B0238CE4FB1"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "PetnaesettaZad"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zadaci Vezbanje - Courses/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "282"
+            endingLineNumber = "282"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F544BA4-A019-49AF-941A-4C8E3C7E30DF"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "SedmaZad"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zadaci Vezbanje - Courses/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "811"
+            endingLineNumber = "811"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C538EBF3-7878-4C34-A4C4-0EDFB686FD9D"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "Devetta-Dopol"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zadaci Vezbanje - Courses/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "991"
+            endingLineNumber = "991"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "435B1ED3-984C-4CFE-BE7B-0A3456F412C1"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "OsmaZad"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zadaci Vezbanje - Courses/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1226"
+            endingLineNumber = "1226"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B228DA7A-5181-4284-B662-3CFF9BFF847E"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "TretaZadDopol"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zadaci Vezbanje - Courses/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1296"
+            endingLineNumber = "1296"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "442F74F6-4F19-4C6C-B048-F5D94F15E4F7"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "SestaZad"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zadaci Vezbanje - Courses/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1149"
+            endingLineNumber = "1149"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B246573-7610-4B9C-9A01-C883EC348234"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "CetirinaesettaZad"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zadaci Vezbanje - Courses/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "927"
+            endingLineNumber = "927"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF1439F1-CACB-4FF4-9029-8D5C6835641D"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "VTORAZADDOPOLNITELNI"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zadaci Vezbanje - Courses/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1332"
+            endingLineNumber = "1332"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2A72A56-0FB1-44F5-B46E-632A364EE0A6"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "CetvrtaZad"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zadaci Vezbanje - Courses/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1425"
+            endingLineNumber = "1425"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7587739B-6EAC-4358-BCE9-AA358659C5EA"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "CetvrtaZad"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zadaci Vezbanje - Courses/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "504"
+            endingLineNumber = "504"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1FE4CAED-F623-4655-996D-8540E80734A7"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "SesnaesettaZad"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zadaci Vezbanje - Courses/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "766"
+            endingLineNumber = "766"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,34 @@
+#include <stdio.h>
+int daliProst(int broj){
+	int i,brojac=0;
+	for(i=1;i<=broj;i++){
+		if(broj%i==0){
+			brojac++;
+		}
+	}
+	if(brojac==2){
+		return 1;
+	}
+	else{
+		return 0;
+	}
+}
+int brojPomaliProst(int broj){
+if(broj==1){
+	return 1;
+}
+return daliProst(broj)+brojPomaliProst(broj-1);
+/*
+return 1+brojPomaliProst(5-1);
+return 0+brojPomaliProst(4-1);
+return 1+brojPomaliProst(3-1);
+return 1+brojPomaliProst(2-1);
+return 1+brojPomaliProst(1-1);
+
+*/
+}
+int main(){
+	int a;
+	scanf("%d",&a);
+	printf("Brojot na prosti broevi pomali od %d e %d",a,brojPomaliProst(a));
+}
